@@ -1,0 +1,15 @@
+PODS:
+  - JSONModel (1.7.0)
+  - ReactiveObjC (3.0.0)
+
+DEPENDENCIES:
+  - JSONModel (~> 1.7.0)
+  - ReactiveObjC (~> 3.0.0)
+
+SPEC CHECKSUMS:
+  JSONModel: 840bc0fcffb24b8454d2c026bf26fea454b8e98d
+  ReactiveObjC: ce79989e8684b9086b5f8d0c74bc7b81a8729c9e
+
+PODFILE CHECKSUM: 2f0607d54b45f5565bdf2112b3e367c113819ad0
+
+COCOAPODS: 1.4.0
